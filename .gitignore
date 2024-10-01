@@ -92,3 +92,4 @@ third_party/boost_1_81
 /tests/mql/tmp
 /tests/mql/test-status-last.txt
 /tests/trie/tmp-db
+.ccls-cache/
